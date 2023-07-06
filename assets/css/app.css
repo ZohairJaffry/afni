@@ -1,9 +1,9 @@
 /*
 Template Name: Jobcy
-Author: Themesdesign
+Author:     
 Version: 1.0.0
-Website: https://themeforest.net/search/themesdesign
-Contact: themesdesign.in@gmail.com
+Website: https://themeforest.net/search/    
+Contact:     .in@gmail.com
 File: Main Css File
 */
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Inter:wght@300;400;500;600;700&display=swap"); /********************TOP-BAR********************/
@@ -217,7 +217,7 @@ body[data-bs-theme=dark] .navbar-brand .logo-light {
 .page-title-box {
   background-image: url("../images/home/page-title.png");
   background-size: cover;
-  background-color: var(--bs-primary-text);
+  background-color: #FAD596;
   position: relative;
   padding-top: 225px;
   padding-bottom: 110px;
@@ -645,7 +645,7 @@ body[data-bs-theme=dark] .page-title-box {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-color: rgba(var(--bs-primary-rgb), 0.15);
+  
 }
 #status ul {
   display: -webkit-box;
@@ -1165,7 +1165,7 @@ body[data-bs-theme=dark] .job-Categories-box .job-Categories-list li {
   border: none;
 }
 .side-bar .accordion .accordion-item .accordion-button {
-  background-color: rgba(var(--bs-primary-rgb), 0.15);
+  
   color: var(--bs-dark);
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -1228,7 +1228,7 @@ body[data-bs-theme=dark] .job-Categories-box .job-Categories-list li {
   border-radius: 5px;
   font-size: 14px;
   color: var(--bs-primary);
-  background-color: rgba(var(--bs-primary-rgb), 0.15);
+  
 }
 
 .favorite-icon a {
@@ -1909,7 +1909,7 @@ body[data-bs-theme=dark] .noUi-horizontal {
   font-size: 12px;
   font-weight: 500;
   line-height: 10px;
-  background: #3396cf;
+  background: #003896;
   position: relative;
   text-transform: uppercase;
   display: inline-block;
@@ -1920,7 +1920,7 @@ body[data-bs-theme=dark] .noUi-horizontal {
   position: absolute;
   border-top: 11px solid transparent;
   border-bottom: 11px solid transparent;
-  border-left: 11px solid #3396cf;
+  border-left: 11px solid #003896;
   right: -11px;
   top: 0;
 }
@@ -2270,7 +2270,7 @@ ul.pattern li .color-list {
   margin: 5px;
 }
 ul.pattern .color1 {
-  background-color: #3396cf;
+  background-color: #003896;
 }
 ul.pattern .color2 {
   background-color: #1f86ef;
