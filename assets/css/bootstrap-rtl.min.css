@@ -35,7 +35,7 @@ File: Custom Bootstrap Css File
   --bs-gray-400: #e2e5e8;
   --bs-gray-500: #adb5bd;
   --bs-gray-600: #74788d;
-  --bs-gray-700: #3d454e;
+  --bs-gray-700: #003896;
   --bs-gray-800: #283039;
   --bs-gray-900: #303841;
   --bs-primary: #003896;
@@ -71,8 +71,8 @@ File: Custom Bootstrap Css File
   --bs-warning-text: #947a32;
   --bs-danger-text: #ae2c38;
   --bs-light-text: #74788d;
-  --bs-dark-text: #3d454e;
-  --bs-primary-bg-subtle: #5a9ea6;
+  --bs-dark-text: #003896;
+  --bs-primary-bg-subtle: #003896;
   --bs-secondary-bg-subtle: #f8f9fa;
   --bs-success-bg-subtle: #ccefe3;
   --bs-info-bg-subtle: #dff6fd;
@@ -104,7 +104,7 @@ File: Custom Bootstrap Css File
   --bs-body-font-size: 0.9375rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #3d454e;
+  --bs-body-color: #003896;
   --bs-emphasis-color: #000;
   --bs-emphasis-color-rgb: 0, 0, 0;
   --bs-secondary-color: #283039;
@@ -175,7 +175,7 @@ File: Custom Bootstrap Css File
   --bs-light-text: #f8f9fa;
   --bs-dark-text: #eff0f2;
   --bs-primary-bg-subtle: #2f2c62;
-  --bs-secondary-bg-subtle: #3d454e;
+  --bs-secondary-bg-subtle: #003896;
   --bs-success-bg-subtle: #01462e;
   --bs-info-bg-subtle: #265361;
   --bs-warning-bg-subtle: #635221;
@@ -183,12 +183,12 @@ File: Custom Bootstrap Css File
   --bs-light-bg-subtle: #283039;
   --bs-dark-bg-subtle: #353e48;
   --bs-primary-border-subtle: #474192;
-  --bs-secondary-border-subtle: #3d454e;
+  --bs-secondary-border-subtle: #003896;
   --bs-success-border-subtle: #016946;
   --bs-info-border-subtle: #265361;
   --bs-warning-border-subtle: #fdf5dd;
   --bs-danger-border-subtle: #83212a;
-  --bs-light-border-subtle: #3d454e;
+  --bs-light-border-subtle: #003896;
   --bs-dark-border-subtle: #283039;
   --bs-heading-color: #fff;
   --bs-link-color: #003896;
@@ -196,7 +196,7 @@ File: Custom Bootstrap Css File
   --bs-link-color-rgb: 118, 109, 244;
   --bs-link-hover-color-rgb: 118, 109, 244;
   --bs-code-color: #f18bba;
-  --bs-border-color: #3d454e;
+  --bs-border-color: #003896;
   --bs-border-color-translucent: #283039;
 }
 
@@ -2234,7 +2234,7 @@ progress {
 
 .table-primary {
   --bs-table-color: #000;
-  --bs-table-bg: #5a9ea6;
+  --bs-table-bg: #003896;
   --bs-table-border-color: #cdcbe4;
   --bs-table-striped-bg: #d9d7f0;
   --bs-table-striped-color: #000;
@@ -3392,7 +3392,7 @@ textarea.form-control.is-invalid {
   --bs-btn-font-size: 0.9375rem;
   --bs-btn-font-weight: 400;
   --bs-btn-line-height: 1.5;
-  --bs-btn-color: #3d454e;
+  --bs-btn-color: #003896;
   --bs-btn-bg: transparent;
   --bs-btn-border-width: var(--bs-border-width);
   --bs-btn-border-color: transparent;
@@ -4257,7 +4257,7 @@ fieldset:disabled .btn {
 
 .dropdown-menu-dark {
   --bs-dropdown-color: #eff0f2;
-  --bs-dropdown-bg: #3d454e;
+  --bs-dropdown-bg: #003896;
   --bs-dropdown-border-color: var(--bs-border-color);
   --bs-dropdown-box-shadow: ;
   --bs-dropdown-link-color: #eff0f2;
@@ -14495,7 +14495,7 @@ fieldset:disabled .btn {
   --bs-footer-height: 60px;
   --bs-footer-bg: #2e3538;
   --bs-footer-color: #74788d;
-  --bs-purple-bg-subtle: #5a9ea6;
+  --bs-purple-bg-subtle: #003896;
   --bs-blue-bg-subtle: #d2e7fc;
 }
 
@@ -14507,7 +14507,7 @@ fieldset:disabled .btn {
   --bs-bg-light: #303841;
   --bs-header-dark-bg: #fff;
   --bs-header-dark-item-color: #283039;
-  --bs-topnav-bg: #3d454e;
+  --bs-topnav-bg: #003896;
   --bs-header-item-sub-color: var(--bs-tertiary-color);
   --bs-footer-bg: #242c34;
   --bs-boxed-body-bg: #0a121c;

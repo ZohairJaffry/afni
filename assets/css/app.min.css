@@ -196,7 +196,7 @@ body[data-bs-theme="dark"] .navbar-brand .logo-light {
 .page-title-box {
   background-image: url(../images/home/page-title.png);
   background-size: cover;
-  background-color: #5a9ea6;
+  background-color: #003896;
   position: relative;
   padding-top: 225px;
   padding-bottom: 110px;
@@ -720,7 +720,7 @@ body[data-bs-theme="dark"] .page-title-box {
 }
 .choices[data-type*="select-one"] .selection-widget .form-select {
   padding: 8px 20px;
-  color: #3d454e;
+  color: #003896;
   border-color: #dbdfe2;
 }
 .choices[data-type*="select-one"] .selection-widget .form-select:focus {
@@ -978,7 +978,7 @@ body[data-bs-theme="dark"] .bg-home {
   margin-bottom: 0;
 }
 body[data-bs-theme="dark"] .job-Categories-box .job-Categories-list li {
-  background-color: #3d454e;
+  background-color: #003896;
 }
 .job-list-menu {
   background-color: var(--bs-body-bg);
@@ -1208,7 +1208,7 @@ body[data-bs-theme="dark"] .noUi-horizontal {
   background-color: #242c34;
 }
 [data-bs-theme="dark"] .subscribe-form .form-control {
-  border-color: #3d454e;
+  border-color: #003896;
   background-color: #303841;
 }
 .process-box {
@@ -1450,7 +1450,7 @@ body[data-bs-theme="dark"] .noUi-horizontal {
   border-color: #e2e5e8 transparent #e2e5e8 transparent;
 }
 [data-bs-theme="dark"] .blog-grid-box {
-  border: #3d454e;
+  border: #003896;
 }
 .about-feature {
   -webkit-box-shadow: 0 3px 10px 0 rgba(40, 48, 57, 0.08);

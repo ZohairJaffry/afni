@@ -806,7 +806,7 @@ body[data-bs-theme="dark"] .page-title-box {
 }
 .choices[data-type*="select-one"] .selection-widget .form-select {
   padding: 8px 20px;
-  color: #3d454e;
+  color: #003896;
   border-color: #dbdfe2;
 }
 .choices[data-type*="select-one"] .selection-widget .form-select:focus {
@@ -1081,7 +1081,7 @@ body[data-bs-theme="dark"] .bg-home {
 
 /*****************dark-mode******************/
 body[data-bs-theme="dark"] .job-Categories-box .job-Categories-list li {
-  background-color: #3d454e;
+  background-color: #003896;
 }
 
 .job-list-menu {
@@ -1328,7 +1328,7 @@ body[data-bs-theme="dark"] .noUi-horizontal {
   background-color: #242c34;
 }
 [data-bs-theme="dark"] .subscribe-form .form-control {
-  border-color: #3d454e;
+  border-color: #003896;
   background-color: #303841;
 }
 
@@ -1585,7 +1585,7 @@ body[data-bs-theme="dark"] .noUi-horizontal {
 }
 
 [data-bs-theme="dark"] .blog-grid-box {
-  border: #3d454e;
+  border: #003896;
 }
 
 .about-feature {
