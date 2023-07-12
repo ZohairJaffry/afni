@@ -9960,7 +9960,7 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
 }
 
-.bg-primary-subtle {
+.{
   background-color: var(--bs-primary-bg-subtle) !important;
 }
 

@@ -9485,7 +9485,7 @@ fieldset:disabled .btn {
 .bg-opacity-100 {
   --bs-bg-opacity: 1;
 }
-.bg-primary-subtle {
+. {
   background-color: var(--bs-primary-bg-subtle) !important;
 }
 .bg-secondary-subtle {
